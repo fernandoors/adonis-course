@@ -1,0 +1,6 @@
+{
+  "above": "The {{field}} should be above {{argument.0}}",
+  "accepted": "The {{field}} should have been accepted",
+  "after": "The {{field}} should be a date after {{argument.0}}",
+  "after_offset_of": "The {{field}} should be after {{argument.0}} {{argument.1}} from today's date"
+}
